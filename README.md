@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gmacgregor1&color=brightgreen&style=for-the-badge)
 [![Linkedin](https://www.linkedin.com/in/grahammacgregor)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![https://github.com/gmacgregor1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/gmacgregor1))
 
 DevOps SRE and automation enthusiast 
 
