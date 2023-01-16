@@ -75,7 +75,7 @@ Some of the tools I've used are below (Not all of them)...
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS"  alt="CentOS" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" height="60"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" title="Windows"  alt="Windows" height="60"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" title="Windows"  alt="Windows" height="60"/>&nbsp;
 
 <!--
 ## CI/CD
