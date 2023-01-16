@@ -73,7 +73,7 @@ Some of the tools I've used are below (Not all of them)...
 
 ### Operating Systems
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS"  alt="CentOS" height="60"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" title="CentOS"  alt="CentOS" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" height="60"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" title="Windows"  alt="Windows" height="60"/>&nbsp;
 
