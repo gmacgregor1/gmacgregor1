@@ -1,9 +1,12 @@
 
 # Hi there 👋, I'm Graham MacGregor.
 ![](https://komarev.com/ghpvc/?username=gmacgregor1&color=brightgreen&style=for-the-badge)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][1]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 
-![Linkedin](https://www.linkedin.com/in/grahammacgregor)
-![github](https://github.com/gmacgregor1)
+[1]: http://www.github.com/gmacgregor1
+[2]: https://www.linkedin.com/in/grahammacgregor
+---
 
 DevOps SRE and automation enthusiast 
 
