@@ -64,7 +64,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS"  alt="CentOS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/File:Windows_logo_and_wordmark_-_2021.svg#/media/File:Windows_logo_-_2021.svg" title="Windows"  alt="Windows" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" title="Windows"  alt="Windows" width="40" height="40"/>
 
 <!--
 ## CI/CD
