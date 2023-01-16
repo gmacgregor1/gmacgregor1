@@ -1,6 +1,10 @@
 
 # Hi there 👋, I'm Graham MacGregor.
 
+DevOps SRE and automation enthusiast 
+
+## Tools
+Some of the tools I've used are below (Not all of them)...
 
 ### Cloud
 
