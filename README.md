@@ -36,6 +36,7 @@ Some of the tools I've used are below (Not all of them)...
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby"  alt="Ruby" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" height="60"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" title="yaml"  alt="yaml" height="60"/>&nbsp;
 <br><br>
 
 ### Containers
